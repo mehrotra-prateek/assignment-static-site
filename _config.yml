@@ -3,11 +3,11 @@
 port: 4000
 markdown:  kramdown
 permalink: /:title
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag, jekyll-redirect-from]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Static Site for Assessment"
+title:		   "Static Site Assessment"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Prateek"
 
